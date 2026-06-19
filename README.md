@@ -13,7 +13,7 @@ It serves as both a functional webpage and a milestone that reflects the beginni
 ## 🔗 Live Preview
 
 Explore the deployed website:
-👉 https://manlikebulu.github.io/website-askforhelp/
+👉 https://manlikebulu.github.io/my-first-website/
 
 ---
 
